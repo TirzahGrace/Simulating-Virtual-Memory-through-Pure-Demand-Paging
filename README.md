@@ -1,4 +1,4 @@
-# Operating Systems - Virtual Memory through Demand Paging
+# OS - Virtual Memory through Demand Paging
 
 ## Commands to use to run the program:
  - Compile: To compile all files use:
